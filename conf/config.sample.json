@@ -1,5 +1,5 @@
 {
-  "janusServer": null,
+  "janusServer": ws://%{hostname}/janus,
   "janusDebug": false,
   "janusWithCredentials": true,
   "joinUnmutedLimit": 3,
